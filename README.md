@@ -1,4 +1,4 @@
-# One-axis-balance-beam-with-PID-controller
+![WhatsApp Image 2024-05-22 at 22 59 47_4c4c55ac](https://github.com/MahmoudElbhrawy/One-axis-balance-beam-with-PID-controller/assets/110239321/e0e76e47-47f8-4f7d-b8b7-275460b9fb5d)# One-axis-balance-beam-with-PID-controller
 
 A proportional–integral–derivative controller (PID controller) is a control loop feedback mechanism commonly used in industrial control systems. A PID controller continuously calculates an error value e(t) as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms (sometimes denoted P, I, and D respectively) which give their name to the controller type.
 
@@ -10,4 +10,10 @@ So to tune our motors we will first build a balance for just 2 motors. This two 
 
 Circuit Diagram
 ![WhatsApp Image 2024-05-22 at 22 05 35_eefd2ffc](https://github.com/MahmoudElbhrawy/One-axis-balance-beam-with-PID-controller/assets/110239321/9f86c473-2951-424e-8210-4303c75e98af)
+
+
+![WhatsApp Image 2024-05-22 at 22 59 47_5a22967f](https://github.com/MahmoudElbhrawy/One-axis-balance-beam-with-PID-controller/assets/110239321/8372bca2-ae67-4c08-a2ee-7da599758ce6)
+
+
+![WhatsApp Image 2024-05-22 at 23 32 21_b5089b83](https://github.com/MahmoudElbhrawy/One-axis-balance-beam-with-PID-controller/assets/110239321/713f9126-02f3-444d-8fa2-fe2f3f6102ab)
 
