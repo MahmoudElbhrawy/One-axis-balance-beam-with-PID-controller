@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-05-22 at 22 59 47_4c4c55ac](https://github.com/MahmoudElbhrawy/One-axis-balance-beam-with-PID-controller/assets/110239321/e0e76e47-47f8-4f7d-b8b7-275460b9fb5d)# One-axis-balance-beam-with-PID-controller
+# One-axis-balance-beam-with-PID-controller
 
 A proportional–integral–derivative controller (PID controller) is a control loop feedback mechanism commonly used in industrial control systems. A PID controller continuously calculates an error value e(t) as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms (sometimes denoted P, I, and D respectively) which give their name to the controller type.
 
